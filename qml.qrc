@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Launching.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>res/image/grass.png</file>
+        <file>res/image/1.png</file>
+        <file>res/image/chick.png</file>
+        <file>res/image/texture_atlas.png</file>
+    </qresource>
+</RCC>
